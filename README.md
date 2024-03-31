@@ -1,6 +1,3 @@
-## Hey there! ✌
-### I'm Ilya, a BSUIR student diving into Android dev. Currently on the lookout for a cool gig as an Android developer, so if you've got something exciting, hit me up! 😎
-
 ## Find me on:
 <p align="center">
  <a href="https://www.linkedin.com/in/ilya-matveyeu-949868222/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
